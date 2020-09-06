@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi, I'm Conner 👋🏾
+
+![conner mcbride](/images/connermcbride.png)
+I'm a software engineer who is passionate about ☁️ cloud computing and development. Some technologies I enjoy working with include ReactJS, MySQL, MongoDB, Node.js and EXPRESS (MERN stack).
+
+## Find me around the web 🌎:
+
+<!-- ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> -->
+
+Sharing updates on <a href="https://www.linkedin.com/in/conner-mcbride/">LinkedIn</a> 💼
 
 <!--
 **CGMcBride/CGMcBride** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
